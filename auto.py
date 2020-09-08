@@ -4,6 +4,7 @@ import fileinput
 # ======================  edit by yourself  ======================
 sources = [
           #'https://github.com/bestColor/SpecManager.git',
+          'https://github.com/CocoaPods/Specs.git',
           ]
 
 project_name = 'MZRouter'
