@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.authors      = "Mengzhu"
   s.name         = "MZRouter"
-  s.version      = "0.0.11"
+  s.version      = "0.0.12"
   s.summary      = "MZRouter iOS MZ's Router Framework"
   s.description  = "MZRouter iOS MZ's Router Framework, MZRouter Server Function"
   s.homepage     = "http://www.zmengzhu.com"
