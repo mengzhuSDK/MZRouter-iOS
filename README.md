@@ -1,2 +1,2 @@
 # MZRouter-iOS
-MZRouter-iOS is MZ's Router Framework
+MZRouter-iOS is MZ's Router Frameworks
