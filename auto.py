@@ -123,7 +123,6 @@ def gitOperation():
     current_branch = r.read()
     r.close()
     push_command = 'git push origin ' + current_branch
-    
     os.system(push_command)
     print("-------- git push  ...... ---------" + push_command)
 

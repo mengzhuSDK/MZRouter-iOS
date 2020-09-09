@@ -34,7 +34,7 @@
             [viewController.navigationController pushViewController:vc animated:YES];
         } else {
             [viewController presentViewController:vc animated:YES completion:nil];
-        }
+        }//
     }];
     
     
