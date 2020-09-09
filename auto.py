@@ -123,7 +123,8 @@ def gitOperation():
     current_branch = r.read()
     r.close()
     push_command = 'git push origin ' + current_branch
-    
+    print("-------- push_command ...... ---------" + current_branch)
+
     # tag
     tag_command = 'git tag -m "' + new_tag + '" ' + new_tag
     os.system(tag_command)
